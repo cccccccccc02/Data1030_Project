@@ -1,0 +1,21 @@
+random_state,model,best_params,validation_score
+0,LogisticRegression,"{'C': 1, 'max_iter': 8000, 'penalty': 'l1'}",0.8324074074074075
+0,RandomForestClassifier,"{'max_depth': 10, 'max_features': 0.25}",0.826851851851852
+0,XGBClassifier,"{'colsample_bytree': 0.8, 'max_depth': 10, 'n_estimators': 10000, 'reg_alpha': 0.1, 'reg_lambda': 0.1, 'subsample': 0.6}",0.75
+0,SVC,"{'C': 100, 'gamma': 0.1}",0.8666666666666668
+2,LogisticRegression,"{'C': 1, 'max_iter': 8000, 'penalty': 'l1'}",0.7898148148148147
+2,RandomForestClassifier,"{'max_depth': 30, 'max_features': 0.75}",0.8212962962962964
+2,XGBClassifier,"{'colsample_bytree': 0.8, 'max_depth': 10, 'n_estimators': 10000, 'reg_alpha': 1.0, 'reg_lambda': 10.0, 'subsample': 0.6}",0.8055555555555556
+2,SVC,"{'C': 100, 'gamma': 0.1}",0.8222222222222222
+4,LogisticRegression,"{'C': 1, 'max_iter': 8000, 'penalty': 'l1'}",0.8037037037037036
+4,RandomForestClassifier,"{'max_depth': 10, 'max_features': 0.5}",0.8009259259259259
+4,XGBClassifier,"{'colsample_bytree': 0.8, 'max_depth': 10, 'n_estimators': 10000, 'reg_alpha': 1.0, 'reg_lambda': 10.0, 'subsample': 0.6}",0.7472222222222222
+4,SVC,"{'C': 10, 'gamma': 0.1}",0.8537037037037039
+8,LogisticRegression,"{'C': 1, 'max_iter': 8000, 'penalty': 'l1'}",0.8083333333333333
+8,RandomForestClassifier,"{'max_depth': 10, 'max_features': 0.5}",0.8212962962962964
+8,XGBClassifier,"{'colsample_bytree': 0.8, 'max_depth': 10, 'n_estimators': 10000, 'reg_alpha': 1.0, 'reg_lambda': 0.1, 'subsample': 0.6}",0.7555555555555556
+8,SVC,"{'C': 1000, 'gamma': 0.01}",0.875
+42,LogisticRegression,"{'C': 100, 'max_iter': 8000, 'penalty': 'l1'}",0.8212962962962962
+42,RandomForestClassifier,"{'max_depth': 30, 'max_features': 1.0}",0.8138888888888889
+42,XGBClassifier,"{'colsample_bytree': 0.8, 'max_depth': 3, 'n_estimators': 10000, 'reg_alpha': 1.0, 'reg_lambda': 1.0, 'subsample': 0.6}",0.8046296296296296
+42,SVC,"{'C': 1000, 'gamma': 0.01}",0.8490740740740741
